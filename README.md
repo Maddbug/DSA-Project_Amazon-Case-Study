@@ -32,3 +32,6 @@ Use pivot tables and calculated columns where necessary to answer the following:
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+# Dashboard overview
+![Amazon Product Review Analysis Dashboard_](https://github.com/user-attachments/assets/37969b25-7d19-478c-9c63-11436f94e3af)
