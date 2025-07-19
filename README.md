@@ -37,6 +37,19 @@ Use pivot tables and calculated columns where necessary to answer the following:
 ![Amazon Product Review Analysis Dashboard_](https://github.com/user-attachments/assets/37969b25-7d19-478c-9c63-11436f94e3af)
 
 # Amazon Product Insights Summary
-
-
-* 
+* Total Products 1350
+* High Discounts 662 products (49%) have ≥ 50% discount
+* Top Rated Product boAt Bassheads
+* Most Reviewed Product Amazon Basics (147 reviews)
+* Low Review Products 309 products have fewer than 1,000 reviews
+* Total Potential Revenue $113,641,257,195 (based on actual price × rating count)
+* Actual Revenue $7,686,281
+* Discounted Revenue $4,462,688
+* Top Categories (by count) Electronics, Home & Kitchen, Computers & Accessories
+* Top Revenue Category Electronics
+* Highest Discount Categories Home Improvement, Computers & Accessories (>50%)
+* Rating Distribution Majority between 4.0 – 4.4 stars
+* Price Range (Most Common) > $500 (63% of products)
+* Discount vs Rating No strong correlation — higher discounts does not guarantee higher ratings.
+  
+<img width="1279" height="785" alt="image" src="https://github.com/user-attachments/assets/d0f53e08-a1ca-4615-a671-f43a134921b6" />
