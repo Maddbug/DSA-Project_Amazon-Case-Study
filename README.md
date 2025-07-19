@@ -53,3 +53,35 @@ Use pivot tables and calculated columns where necessary to answer the following:
 * Discount vs Rating No strong correlation — higher discounts does not guarantee higher ratings.
   
 <img width="1279" height="785" alt="image" src="https://github.com/user-attachments/assets/d0f53e08-a1ca-4615-a671-f43a134921b6" />
+
+<img width="1288" height="828" alt="image" src="https://github.com/user-attachments/assets/20460b1c-ae3b-4575-a871-0be3994f5758" />
+
+<img width="1283" height="694" alt="image" src="https://github.com/user-attachments/assets/0f97b34a-bbb5-4cf2-b457-cbca604ef9f6" />
+
+<img width="1282" height="695" alt="image" src="https://github.com/user-attachments/assets/6219c025-4528-43ab-a7dd-b9fd351875c2" />
+
+<img width="1296" height="722" alt="image" src="https://github.com/user-attachments/assets/0e2b00cb-fa03-4028-bc57-03a11202751f" />
+
+<img width="1299" height="730" alt="image" src="https://github.com/user-attachments/assets/ddfc2e41-ac72-4721-86ac-2fa10f428fdf" />
+
+<img width="1304" height="721" alt="image" src="https://github.com/user-attachments/assets/7cb441a4-5ccb-4f5d-aafe-02feef8fd947" />
+
+<img width="1312" height="746" alt="image" src="https://github.com/user-attachments/assets/9e78aff4-0e6a-4119-a29f-a2697d1d04c4" />
+
+<img width="1310" height="763" alt="image" src="https://github.com/user-attachments/assets/756006af-7d42-4ba1-bb79-ba3f480467ad" />
+
+<img width="1329" height="653" alt="image" src="https://github.com/user-attachments/assets/31d9446a-639b-47d7-8145-4519d9f1a460" />
+
+<img width="1330" height="818" alt="image" src="https://github.com/user-attachments/assets/f9ef022b-d200-4b02-9a60-56e2a26a0404" />
+
+<img width="1343" height="671" alt="image" src="https://github.com/user-attachments/assets/7ab09ffc-8e83-4cc1-8797-66cc06d93189" />
+
+<img width="1346" height="675" alt="image" src="https://github.com/user-attachments/assets/fc934a48-107b-4644-8c0d-b2074d38d54f" />
+
+## Tool Used
+* Microsoft Excel
+* Microsoft PBI
+
+## FILE
+[Amazon case study_Final.xlsx](https://github.com/user-attachments/files/21327622/Amazon.case.study_Final.xlsx)
+
