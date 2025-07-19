@@ -35,3 +35,8 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 # Dashboard overview
 ![Amazon Product Review Analysis Dashboard_](https://github.com/user-attachments/assets/37969b25-7d19-478c-9c63-11436f94e3af)
+
+# Amazon Product Insights Summary
+
+
+* 
